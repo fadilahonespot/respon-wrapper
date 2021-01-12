@@ -1,4 +1,4 @@
-module github.com/fadilahonespot/respon-wrapper
+module github.com/fadilahonespot/respon_wrapper
 
 go 1.15
 
